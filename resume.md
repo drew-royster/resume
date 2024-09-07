@@ -10,15 +10,15 @@ Full stack engineer with broad experience including in AI/ML
 **August 2023 - PRESENT**
 
 - Architected and developed the data ingestion and inference pipeline for our Group Networking Application, which allows users to find members of a group by embeddings of their key characteristics. It also allows filtering by location within the search in natural language. For example, users can search “I need an AI Engineer in Utah” and get results near that location with embeddings similar to “AI Engineer”.
-- Deployed all services locally leveraging open-source embedding and inference models. Accessible through CloudFront. Stack VUE 3, python, docker, unraid
+- Deployed all services locally leveraging open-source embedding and inference models. Accessible through CloudFront. Stack VUE 3, python, docker, unraid, pgvector
 
 ### Alio, Remote — Lead Software Engineer
 **August 2021 - PRESENT**
 
 - Led a team of 4 engineers to bring our remote patient monitoring system through an FDA clearance to commercial use.
 - Productionized data science algorithm machine learning pipelines for commercial use.
-- Designed and developed dozens of features from notification systems to synced visualizations.
-- Upgraded many critical legacy services that had been left unmaintained for years.
+- Designed and developed dozens of features from notification systems to synced visualizations. Using Vue, Python, and PostgreSQL.
+- Implemented the strangler pattern to remove many legacy features and consolidate functionality in our kubernetes cluster with python microservices.
 
 ### YBA Shirts, Orem UT — Full Stack Software Engineer
 **January 2021 - August 2021**
@@ -44,7 +44,7 @@ Full stack engineer with broad experience including in AI/ML
 **January 2019 - November 2019**
 
 - Drove migrations and supported integrations with Access Management products such as Forgerock.
-- Rewrote much of the State of Georgia’s court website.
+- Rewrote much of the State of Georgia’s court website using Vue.js.
 
 ### Canvas File Sync, Provo UT — Owner
 **June 2018 - January 2019**
@@ -72,17 +72,17 @@ Full stack engineer with broad experience including in AI/ML
 ### Intel, Folsom CA — Technical Marketing Engineer Intern
 **May 2014 - June 2014**
 
-- Assisted the technical marketing team in developing automated demo systems which were used globally. We used autoit to automate interactions that lean on CPU utilization to demonstrate intel's capabilities.
+- Assisted the technical marketing team in developing automated demo systems which were used globally. We used autoit to automate interactions that lean on CPU utilization to demonstrate intel's capabilities using auto it.
 
 ## SKILLS
 
 - Pytorch
 - TensorFlow
 - Docker
-- Vue
+- Vue Vue.js
 - Python
-- React
-- Electron
+- React React.js
+- Electron Electron.js
 - Javascript
 - MongoDB
 - PostgreSQL
@@ -91,3 +91,6 @@ Full stack engineer with broad experience including in AI/ML
 
 ### Utah Valley University
 **Computer Science**
+
+### Shaolin AI
+**AI/ML Bootcamp**
