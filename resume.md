@@ -1,3 +1,5 @@
+<img src="drew.jpeg" alt="drew" width="200" style="border-radius: 50%" />
+
 # Drew Royster
 Full stack engineer with broad experience including in AI/ML
 
