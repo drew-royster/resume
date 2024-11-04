@@ -1,4 +1,4 @@
-<img src="drew.jpeg" alt="drew" width="200" style="border-radius: 50%" />
+![](drew-small.jpg)
 
 # Drew Royster
 Full stack engineer with broad experience including in AI/ML
@@ -8,19 +8,20 @@ Full stack engineer with broad experience including in AI/ML
 
 ## EXPERIENCE
 
-### Exit Org, Remote (Part Time) — ML Engineer
+### Shaolin AI, Remote (Part Time) — ML Engineer
 **August 2023 - PRESENT**
 
-- Architected and developed the data ingestion and inference pipeline for our Group Networking Application, which allows users to find members of a group by embeddings of their key characteristics. It also allows filtering by location within the search in natural language. For example, users can search “I need an AI Engineer in Utah” and get results near that location with embeddings similar to “AI Engineer”.
+- Architected and developed the data ingestion and inference pipeline for our Group Networking Application, which allows users to find members of a group by embeddings of their key characteristics. It also allows filtering by location through raw function calls within the search in natural language. For example, users can search “I need an AI Engineer in Utah” and get results near that location with embeddings similar to “AI Engineer”.
 - Deployed all services locally leveraging open-source embedding and inference models. Accessible through CloudFront. Stack VUE 3, python, docker, unraid, pgvector
 
 ### Alio, Remote — Lead Software Engineer
 **August 2021 - PRESENT**
 
 - Led a team of 4 engineers to bring our remote patient monitoring system through an FDA clearance to commercial use.
-- Productionized data science algorithm machine learning pipelines for commercial use.
-- Designed and developed dozens of features from notification systems to synced visualizations. Using Vue, Python, and PostgreSQL.
+- Productionized data science algorithm machine learning pipelines for scale and reliability.
+- Designed and developed dozens of features from notification systems to data pipelines. Using Vue, Python, and PostgreSQL.
 - Implemented the strangler pattern to remove many legacy features and consolidate functionality in our kubernetes cluster with python microservices.
+- Created Helm Charts for our legacy applications to allow reliability and reproduce-ability through infrastructure as code.
 
 ### YBA Shirts, Orem UT — Full Stack Software Engineer
 **January 2021 - August 2021**
@@ -79,6 +80,8 @@ Full stack engineer with broad experience including in AI/ML
 ## SKILLS
 
 - Pytorch
+- Kubernetes
+- Helm
 - TensorFlow
 - Docker
 - Vue Vue.js
@@ -86,8 +89,16 @@ Full stack engineer with broad experience including in AI/ML
 - React React.js
 - Electron Electron.js
 - Javascript
+- Typescript
 - MongoDB
 - PostgreSQL
+- PgVector
+- Rabbitmq
+- Lambdas
+- LLM's
+- Machine Learning
+- RAG
+- Vector Embeddings Search
 
 ## Education
 
