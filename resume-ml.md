@@ -8,6 +8,12 @@ Full stack engineer with broad experience including in AI/ML
 
 ## EXPERIENCE
 
+### Shaolin AI, Remote (Part Time) — ML Engineer
+**January 2023 - PRESENT**
+
+- Architected and developed the data ingestion and inference pipeline for our Group Networking Application, which allows users to find members of a group by embeddings of their key characteristics. It also allows filtering by location through raw function calls within the search in natural language. For example, users can search “I need an AI Engineer in Utah” and get results near that location with embeddings similar to “AI Engineer”.
+- Deployed all services locally leveraging open-source embedding and inference models. Accessible through CloudFront. Stack VUE 3, python, docker, unraid, pgvector
+
 ### Alio, Remote — Lead Software Engineer
 **August 2021 - PRESENT**
 
@@ -16,12 +22,6 @@ Full stack engineer with broad experience including in AI/ML
 - Designed and developed dozens of features from notification systems to data pipelines. Using Vue, Python, and PostgreSQL.
 - Implemented the strangler pattern to remove many legacy features and consolidate functionality in our kubernetes cluster with python microservices.
 - Created Helm Charts for our legacy applications to allow reliability and reproduce-ability through infrastructure as code.
-
-### Shaolin AI, Remote (Part Time) — ML Engineer
-**January 2023 - PRESENT**
-
-- Architected and developed the data ingestion and inference pipeline for our Group Networking Application, which allows users to find members of a group by embeddings of their key characteristics. It also allows filtering by location through raw function calls within the search in natural language. For example, users can search “I need an AI Engineer in Utah” and get results near that location with embeddings similar to “AI Engineer”.
-- Deployed all services locally leveraging open-source embedding and inference models. Accessible through CloudFront. Stack VUE 3, python, docker, unraid, pgvector
 
 ### YBA Shirts, Orem UT — Full Stack Software Engineer
 **January 2021 - August 2021**
